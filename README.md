@@ -1,5 +1,5 @@
 - 👋 Greetings!, I’m Hemant Kallam
-- 👀 I’m interested in: Machine Learning, Cybersecurity, and Distributed Systems(Back-End)
+- 👀 I’m interested in: Data Science/Engineering, and Video Game Engineering/Design!
 - 🌱 I’m currently learning: Python, Java, and C
 - 💞️ I’m looking to collaborate on: Anything!
 - 📫 How to reach me: hemantkallam74@gmail.com
